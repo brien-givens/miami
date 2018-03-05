@@ -1,0 +1,5 @@
+ujson==1.33
+flask==0.12.2
+requests==2.17.3
+gevent==1.1.1
+psycopg2==2.7.4
